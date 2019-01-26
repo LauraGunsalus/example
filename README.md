@@ -36,3 +36,9 @@ python -m pytest
 ```
 
 from the root directory of this project.
+
+## plotting
+
+Code to plot runtime, variable assignment, and conditional checks can be found in quantifyRuntime.py
+
+
